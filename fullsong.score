@@ -1,0 +1,161 @@
+<score bpm="120" beatspermeasure="4">
+    <instrument instrument="SubtractiveSynthesizer">
+        <note measure="1" beat="1" duration="1" note="C3" wavetype="Square" />
+        <note measure="1" beat="2" duration="1" note="E3" wavetype="Square" />
+        <note measure="1" beat="3" duration="1" note="C3" wavetype="Square" />
+        <note measure="1" beat="4" duration="1" note="E3" wavetype="Square" />
+
+	<instrument instrument="Chorus">
+        	<note wet="0.5" dry="0.7" modulationDepth="0.02" modulationRate="0.5" />
+    	</instrument>
+
+        <note measure="2" beat="1" duration="1" note="C4" wavetype="Sawtooth" />
+        <note measure="2" beat="2" duration="1" note="E4" wavetype="Triangle" />
+        <note measure="2" beat="3" duration="1" note="G4" wavetype="Square" />
+        <note measure="2" beat="4" duration="1" note="C5" wavetype="Sawtooth" />
+
+        <note measure="3" beat="1" duration="1" note="C3" wavetype="Square" />
+        <note measure="3" beat="2" duration="1" note="E3" wavetype="Square" />
+        <note measure="3" beat="3" duration="1" note="C3" wavetype="Square" />
+        <note measure="3" beat="4" duration="1" note="E3" wavetype="Square" />
+
+        <note measure="4" beat="1" duration="1" note="C4" wavetype="Sawtooth" />
+        <note measure="4" beat="2" duration="1" note="E4" wavetype="Triangle" />
+        <note measure="4" beat="3" duration="1" note="G4" wavetype="Square" />
+        <note measure="4" beat="4" duration="1" note="C5" wavetype="Sawtooth" />
+
+	<instrument instrument="Reverb">
+        	<note wet="0.7" dry="0.3" maxDelayLength="44100" />
+        </instrument>
+        <note measure="5" beat="1" duration="1" note="E4" wavetype="Sawtooth" />
+
+        <note measure="5" beat="2" duration="1" note="D4" wavetype="Sawtooth" />
+        <note measure="5" beat="3" duration="1" note="C4" wavetype="Sawtooth" />
+        <note measure="5" beat="4" duration="1" note="D4" wavetype="Sawtooth" />
+
+        <note measure="6" beat="1" duration="1" note="E4" wavetype="Sawtooth" />
+        <note measure="6" beat="2" duration="1" note="E4" wavetype="Sawtooth" />
+        <note measure="6" beat="3" duration="1" note="E4" wavetype="Sawtooth" />
+
+	<instrument instrument="Flange">
+        	<note delay="0.00125" wet="0.5" dry="0.2" range="0.5" rate="2" level="2"/>
+    	</instrument>
+
+        <note measure="7" beat="1" duration="1" note="D4" wavetype="Sawtooth" />
+        <note measure="7" beat="2" duration="1" note="D4" wavetype="Sawtooth" />
+        <note measure="7" beat="3" duration="1" note="D4" wavetype="Sawtooth" />
+
+        <note measure="8" beat="1" duration="1" note="E4" wavetype="Sawtooth" />
+        <note measure="8" beat="2" duration="1" note="G4" wavetype="Sawtooth" />
+        <note measure="8" beat="3" duration="1" note="G4" wavetype="Sawtooth" />
+
+        <note measure="9" beat="1" duration="1" note="E4" wavetype="Sawtooth" />
+        <note measure="9" beat="2" duration="1" note="D4" wavetype="Sawtooth" />
+        <note measure="9" beat="3" duration="1" note="E4" wavetype="Sawtooth" />
+        <note measure="9" beat="4" duration="1" note="D4" wavetype="Sawtooth" />
+
+        <note measure="10" beat="1" duration="1" note="C4" wavetype="Sawtooth" />
+
+        <note measure="11" beat="1" duration="1" note="C3" wavetype="Square" />
+        <note measure="11" beat="2" duration="1" note="E3" wavetype="Square" />
+        <note measure="11" beat="3" duration="1" note="C3" wavetype="Square" />
+        <note measure="11" beat="4" duration="1" note="E3" wavetype="Square" />
+
+        <note measure="12" beat="1" duration="1" note="C4" wavetype="Sawtooth" />
+        <note measure="12" beat="2" duration="1" note="E4" wavetype="Triangle" />
+        <note measure="12" beat="3" duration="1" note="G4" wavetype="Square" />
+        <note measure="12" beat="4" duration="1" note="C5" wavetype="Sawtooth" />
+
+        <note measure="13" beat="1" duration="1" note="C3" wavetype="Square" />
+        <note measure="13" beat="2" duration="1" note="E3" wavetype="Square" />
+        <note measure="13" beat="3" duration="1" note="C3" wavetype="Square" />
+        <note measure="13" beat="4" duration="1" note="E3" wavetype="Square" />
+
+        <note measure="14" beat="1" duration="1" note="C4" wavetype="Sawtooth" />
+        <note measure="14" beat="2" duration="1" note="E4" wavetype="Triangle" />
+        <note measure="14" beat="3" duration="1" note="G4" wavetype="Square" />
+        <note measure="14" beat="4" duration="1" note="C5" wavetype="Sawtooth" />
+
+        <note measure="15" beat="1" duration="1" note="C4" wavetype="Sawtooth" />
+        <note measure="15" beat="2" duration="1" note="C4" wavetype="Sawtooth" />
+        <note measure="15" beat="3" duration="1" note="G4" wavetype="Sawtooth" />
+        <note measure="15" beat="4" duration="1" note="G4" wavetype="Sawtooth" />
+
+        <note measure="16" beat="1" duration="1" note="A4" wavetype="Sawtooth" />
+        <note measure="16" beat="2" duration="1" note="A4" wavetype="Sawtooth" />
+        <note measure="16" beat="3" duration="1" note="G4" wavetype="Sawtooth" />
+
+        <note measure="17" beat="1" duration="1" note="F4" wavetype="Sawtooth" />
+        <note measure="17" beat="2" duration="1" note="F4" wavetype="Sawtooth" />
+        <note measure="17" beat="3" duration="1" note="E4" wavetype="Sawtooth" />
+        <note measure="17" beat="4" duration="1" note="E4" wavetype="Sawtooth" />
+
+        <note measure="18" beat="1" duration="1" note="D4" wavetype="Sawtooth" />
+        <note measure="18" beat="2" duration="1" note="D4" wavetype="Sawtooth" />
+        <note measure="18" beat="3" duration="1" note="C4" wavetype="Sawtooth" />
+
+        <note measure="19" beat="1" duration="1" note="G4" wavetype="Sawtooth" />
+        <note measure="19" beat="2" duration="1" note="G4" wavetype="Sawtooth" />
+        <note measure="19" beat="3" duration="1" note="F4" wavetype="Sawtooth" />
+        <note measure="19" beat="4" duration="1" note="F4" wavetype="Sawtooth" />
+
+        <note measure="20" beat="1" duration="1" note="E4" wavetype="Sawtooth" />
+        <note measure="20" beat="2" duration="1" note="E4" wavetype="Sawtooth" />
+        <note measure="20" beat="3" duration="1" note="D4" wavetype="Sawtooth" />
+        <note measure="20" beat="4" duration="1" note="D4" wavetype="Sawtooth" />
+
+        <note measure="21" beat="1" duration="1" note="C4" wavetype="Sawtooth" />
+        <note measure="21" beat="2" duration="1" note="G4" wavetype="Sawtooth" />
+        <note measure="21" beat="3" duration="1" note="G4" wavetype="Sawtooth" />
+        <note measure="21" beat="4" duration="1" note="F4" wavetype="Sawtooth" />
+
+        <note measure="22" beat="1" duration="1" note="F4" wavetype="Sawtooth" />
+        <note measure="22" beat="2" duration="1" note="E4" wavetype="Sawtooth" />
+        <note measure="22" beat="3" duration="1" note="E4" wavetype="Sawtooth" />
+
+        <note measure="23" beat="1" duration="1" note="C5" wavetype="Sawtooth" />
+        <note measure="23" beat="2" duration="1" note="B4" wavetype="Sawtooth" />
+        <note measure="23" beat="3" duration="1" note="A4" wavetype="Sawtooth" />
+        <note measure="23" beat="4" duration="1" note="G4" wavetype="Sawtooth" />
+
+        <note measure="24" beat="1" duration="1" note="F4" wavetype="Sawtooth" />
+        <note measure="24" beat="2" duration="1" note="E4" wavetype="Sawtooth" />
+        <note measure="24" beat="3" duration="1" note="D4" wavetype="Sawtooth" />
+        <note measure="24" beat="4" duration="1" note="C4" wavetype="Sawtooth" />
+
+        <note measure="25" beat="1" duration="1" note="C4" wavetype="Sawtooth" />
+        <note measure="25" beat="2" duration="1" note="D4" wavetype="Sawtooth" />
+        <note measure="25" beat="3" duration="1" note="E4" wavetype="Sawtooth" />
+        <note measure="25" beat="4" duration="1" note="F4" wavetype="Sawtooth" />
+
+        <note measure="26" beat="1" duration="1" note="G4" wavetype="Sawtooth" />
+        <note measure="26" beat="2" duration="1" note="A4" wavetype="Sawtooth" />
+        <note measure="26" beat="3" duration="1" note="B4" wavetype="Sawtooth" />
+        <note measure="26" beat="4" duration="1" note="C5" wavetype="Sawtooth" />
+
+	<note measure="27" beat="1" duration="1" note="C3" wavetype="Square" />
+        <note measure="27" beat="2" duration="1" note="E3" wavetype="Square" />
+        <note measure="27" beat="3" duration="1" note="C3" wavetype="Square" />
+        <note measure="27" beat="4" duration="1" note="E3" wavetype="Square" />
+
+        <note measure="28" beat="1" duration="1" note="C4" wavetype="Sawtooth" />
+        <note measure="28" beat="2" duration="1" note="E4" wavetype="Triangle" />
+        <note measure="28" beat="3" duration="1" note="G4" wavetype="Square" />
+        <note measure="28" beat="4" duration="1" note="C5" wavetype="Sawtooth" />
+
+        <note measure="29" beat="1" duration="1" note="C3" wavetype="Square" />
+        <note measure="29" beat="2" duration="1" note="E3" wavetype="Square" />
+        <note measure="29" beat="3" duration="1" note="C3" wavetype="Square" />
+        <note measure="29" beat="4" duration="1" note="E3" wavetype="Square" />
+
+        <note measure="30" beat="1" duration="1" note="C4" wavetype="Sawtooth" />
+        <note measure="30" beat="2" duration="1" note="E4" wavetype="Triangle" />
+        <note measure="30" beat="3" duration="1" note="G4" wavetype="Square" />
+        <note measure="30" beat="4" duration="1" note="C5" wavetype="Sawtooth" />
+
+	<note measure="31" beat="1" duration="1" note="C3" wavetype="Square" />
+        <note measure="31" beat="2" duration="1" note="E3" wavetype="Square" />
+        <note measure="31" beat="3" duration="1" note="C3" wavetype="Square" />
+        <note measure="31" beat="4" duration="1" note="E3" wavetype="Square" />
+    </instrument>
+</score>

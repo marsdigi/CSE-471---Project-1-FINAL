@@ -1,0 +1,25 @@
+<score bpm="168" beatspermeasure="4">
+    <instrument instrument="SubtractiveSynthesizer">
+        <!-- Beat 1 -->
+        <note measure="1" beat="1" duration="1" note="C3" wavetype="Square" />
+        <note measure="1" beat="2" duration="1" note="E3" wavetype="Square" />
+        <note measure="1" beat="3" duration="1" note="C3" wavetype="Square" />
+        <note measure="1" beat="4" duration="1" note="E3" wavetype="Square" />
+
+        <!-- Repeat Beat 1 for 4 measures -->
+        <note measure="2" beat="1" duration="1" note="C3" wavetype="Square" />
+        <note measure="2" beat="2" duration="1" note="E3" wavetype="Square" />
+        <note measure="2" beat="3" duration="1" note="C3" wavetype="Square" />
+        <note measure="2" beat="4" duration="1" note="E3" wavetype="Square" />
+
+        <note measure="3" beat="1" duration="1" note="C3" wavetype="Square" />
+        <note measure="3" beat="2" duration="1" note="E3" wavetype="Square" />
+        <note measure="3" beat="3" duration="1" note="C3" wavetype="Square" />
+        <note measure="3" beat="4" duration="1" note="E3" wavetype="Square" />
+
+        <note measure="4" beat="1" duration="1" note="C3" wavetype="Square" />
+        <note measure="4" beat="2" duration="1" note="E3" wavetype="Square" />
+        <note measure="4" beat="3" duration="1" note="C3" wavetype="Square" />
+        <note measure="4" beat="4" duration="1" note="E3" wavetype="Square" />
+    </instrument>
+</score>
